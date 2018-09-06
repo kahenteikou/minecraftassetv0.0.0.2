@@ -1,0 +1,12 @@
+C:\Users\kokki\source\repos\MCAssetsDOWNA\ConsoleApp1\bin\Release\ConsoleApp1.exe.config
+C:\Users\kokki\source\repos\MCAssetsDOWNA\ConsoleApp1\bin\Release\ConsoleApp1.exe
+C:\Users\kokki\source\repos\MCAssetsDOWNA\ConsoleApp1\bin\Release\ConsoleApp1.pdb
+C:\Users\kokki\source\repos\MCAssetsDOWNA\ConsoleApp1\obj\Release\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\kokki\source\repos\MCAssetsDOWNA\ConsoleApp1\obj\Release\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\kokki\source\repos\MCAssetsDOWNA\ConsoleApp1\obj\Release\ConsoleApp1.exe
+C:\Users\kokki\source\repos\MCAssetsDOWNA\ConsoleApp1\obj\Release\ConsoleApp1.pdb
+C:\Users\kokki\source\repos\MCAssetsDOWNA\ConsoleApp1\bin\Release\MCAssetsDOWNA.dll
+C:\Users\kokki\source\repos\MCAssetsDOWNA\ConsoleApp1\bin\Release\MCAssetsDOWNA.pdb
+C:\Users\kokki\source\repos\MCAssetsDOWNA\ConsoleApp1\obj\Release\ConsoleApp1.csproj.CopyComplete
+C:\Users\kokki\source\repos\MCAssetsDOWNA\ConsoleApp1\bin\Release\Newtonsoft.Json.dll
+C:\Users\kokki\source\repos\MCAssetsDOWNA\ConsoleApp1\bin\Release\Newtonsoft.Json.xml
