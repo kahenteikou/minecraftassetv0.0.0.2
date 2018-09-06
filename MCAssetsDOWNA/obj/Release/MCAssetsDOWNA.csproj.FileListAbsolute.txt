@@ -1,0 +1,10 @@
+C:\Users\kokki\source\repos\MCAssetsDOWNA\MCAssetsDOWNA\bin\Release\MCAssetsDOWNA.dll
+C:\Users\kokki\source\repos\MCAssetsDOWNA\MCAssetsDOWNA\bin\Release\MCAssetsDOWNA.pdb
+C:\Users\kokki\source\repos\MCAssetsDOWNA\MCAssetsDOWNA\bin\Release\Newtonsoft.Json.dll
+C:\Users\kokki\source\repos\MCAssetsDOWNA\MCAssetsDOWNA\bin\Release\Newtonsoft.Json.xml
+C:\Users\kokki\source\repos\MCAssetsDOWNA\MCAssetsDOWNA\obj\Release\MCAssetsDOWNA.csprojResolveAssemblyReference.cache
+C:\Users\kokki\source\repos\MCAssetsDOWNA\MCAssetsDOWNA\obj\Release\MCAssetsDOWNA.csproj.CoreCompileInputs.cache
+C:\Users\kokki\source\repos\MCAssetsDOWNA\MCAssetsDOWNA\obj\Release\MCAssetsDOWNA.csproj.CopyComplete
+C:\Users\kokki\source\repos\MCAssetsDOWNA\MCAssetsDOWNA\obj\Release\MCAssetsDOWNA.dll
+C:\Users\kokki\source\repos\MCAssetsDOWNA\MCAssetsDOWNA\obj\Release\MCAssetsDOWNA.pdb
+C:\Users\kokki\source\repos\MCAssetsDOWNA\MCAssetsDOWNA\bin\Release\Microsoft.VisualBasic.dll
